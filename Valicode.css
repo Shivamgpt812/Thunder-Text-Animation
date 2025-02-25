@@ -1,0 +1,36 @@
+body{
+  background-color: black;
+  padding-bottom: 100px;
+}
+.page-thunder-to-text {
+  position: relative;
+  overflow: hidden;
+}
+.page-thunder-to-text canvas {
+  display: block;
+}
+.page-thunder-to-text input {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  right: 0;
+  display: block;
+  outline: none;
+  background-color: rgba(38, 50, 56, 0.2);
+  color: #ffffff;
+  border: none;
+  width: 40px;
+  min-width: 500px;
+  margin: auto;
+  height: 60px;
+  line-height: 60px;
+  font-size: 40px;
+  padding: 0 20px;
+  border-radius: 5px;
+}
+.page-thunder-to-text input:hover, .page-thunder-to-text input:focus {
+  border: 1px solid rgba(38, 50, 56, 0.6);
+}
+.page-thunder-to-text input::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.1);
+}
