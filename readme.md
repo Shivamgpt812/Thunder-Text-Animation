@@ -13,7 +13,7 @@ Valicode brings **dynamic thunder animation** to your text! ⚡🔥 Watch your w
 - **CSS** 🖌️  
 - **JavaScript (Canvas API)** ⚡ 
 
-🔥 Preview
+## 🔥 Preview
 ![Thunder Text Animation Preview](preview.png)
 
 ## 🎯 How to Use  
